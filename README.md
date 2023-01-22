@@ -1,5 +1,7 @@
 # rattlebox
 
-Deployed by: GitHub pages
+Deployed by: https://github.com/rattlebox23/rattlebox23.github.io/actions/workflows/pages/pages-build-deployment
 
-Live: https://rattlebox23.github.io/
+Hosted by: GitHub Pages
+
+URL: https://rattlebox23.github.io/
